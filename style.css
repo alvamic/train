@@ -1,0 +1,15 @@
+#header1 {
+    background-image: url("https://thumbs.dreamstime.com/b/colorful-graffiti-new-york-city-image-subway-tra-train-coney-island-rollercoaster-78642384.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: 50%;
+    color:white;
+}
+form {
+    border:solid;
+    border-color:rgb(11, 11, 141);
+}
+#train-table {
+    border:solid;
+    border-color:rgb(11, 11, 141);
+}
